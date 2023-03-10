@@ -196,7 +196,7 @@
         },
         {
             "name": "openOutpaint extension",
-            "url": "https://ghproxy.com/https://github.com/zero01101/openOutpaint-webUI-extension.git",
+            "url": "https://ghproxy.com/https://github.com/TopSea/openOutpaint-webUI-extension.git",
             "description": "A tab with the full openOutpaint UI. Run with the --api flag.",
             "added": "2022-12-23",
             "tags": ["tab", "UI related", "editing"]
